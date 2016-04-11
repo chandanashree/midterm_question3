@@ -1,2 +1,3 @@
 Commit A Message
 Commit B Message
+Commit C message
